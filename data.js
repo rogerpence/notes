@@ -51,6 +51,8 @@ const data = [{
             "Started simple but quickly grew into pervasive monolith that governs most, if not all, aspects of the business",
             "Decades later, business deeply depends on these apps",
             "ensure the delivery of unique business value to customers and business partners",
+            "bugs, features, work-arounds... are lcked in heads of programmmers... full time beach chairs",
+            "these apps aren't documented and no on else"
         ]
     },
     {
