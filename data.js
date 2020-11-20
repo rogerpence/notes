@@ -21,6 +21,10 @@ const data = [{
     },
     {
         title: "IBM i decision makers today face many challenges",
+        text: []
+    },
+    {
+        title: "These changes include",
         text: [
             "RPG applications need to do more modern tasks",
             "Apps grew in simpler times",
