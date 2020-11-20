@@ -11,4 +11,4 @@ const mainEntry = () => {
 
 mainEntry();
 
-export { mainEntry };
+//export { mainEntry };
